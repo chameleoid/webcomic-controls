@@ -7,18 +7,18 @@ The button icon displays enabed (green) and disabled (red) status.
 
 Controls
 ========
-left+right: enable/disable
-left: back/previous
-right: next
-ctrl+up: random
-ctrl+left: first
-ctrl+right: last
+    left+right: enable/disable
+    left: back/previous
+    right: next
+    ctrl+up: random
+    ctrl+left: first
+    ctrl+right: last
 
 
 Change Log
 ==========
-0.3.1: Increased toggle grace to 350ms
-0.3:   Added support for meta tags
+    0.3.1: Increased toggle grace to 350ms
+    0.3:   Added support for meta tags
 
 
 Installation
