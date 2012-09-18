@@ -29,4 +29,4 @@ Installation
 
 Included libraries
 =======
-[http://jquery.com/](jQuery)
+[jQuery](http://jquery.com/)
