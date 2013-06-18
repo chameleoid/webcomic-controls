@@ -1,4 +1,4 @@
-Webcomic Controls
+Webcomic Controls [![](http://badgr.co/gittip/rummik.png)](https://www.gittip.com/rummik/)
 =================
 Navigate through webcomic pages using your arrow keys!
 
